@@ -1,5 +1,5 @@
-import Switch from './src/packages/switch'
-import Table from './src/packages/table'
+import Switch from './packages/switch'
+import Table from './packages/table'
 
 const arr = [
   Switch,
