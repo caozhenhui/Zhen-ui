@@ -1,17 +1,17 @@
 <template>
-  <div class="switch">
-    ik-Switch
+  <div class="ik-table">
+    ik-table
   </div>
 </template>
 
 <script>
 export default {
-  name: 'ik-switch'
+  name: 'ik-table'
 }
 </script>
 
 <style lang="scss">
-.switch {
-  color: red;
+.ik-table {
+  color: blue;
 }
 </style>
